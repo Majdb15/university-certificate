@@ -35,3 +35,24 @@ hr {
     background: #560606;
     margin: 20px 0;
 }
+#section-footer-links{
+    background-color: #fff;
+    padding: 20px;  /* to show the bg of the body behind the header that has all elemnts*/
+    text-align: right;
+}
+
+
+  .navbar a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none; /* to remove the underline*/
+    font-size: 17px;
+    color: black;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
